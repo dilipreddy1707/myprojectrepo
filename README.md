@@ -1,2 +1,2 @@
 # myprojectrepo
-project on Toronto Traffic Collission
+Toronto Traffic Collission
